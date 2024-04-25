@@ -2,7 +2,11 @@
 
 My name is Harrison Barker and I'm an aspiring data analyst! 
 
-I'm currently working on my SQL abilities, constantly imroproving my understanding of each function as I discover them.
+I have a genuine enjoyment for learning new skills and I'm constantly looking to improve my understanding of each new coding language I work with. 
+
+I'm currently focused on SQL with my next intention to be working with python!
+
+
 
 
 <!--
