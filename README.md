@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Harrison Barker and I'm an aspiring data analyst! 
+
+I'm currently working on my SQL abilities, constantly imroproving my understanding of each function as I discover them.
+
+
 <!--
 **Harrisondb99/Harrisondb99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
